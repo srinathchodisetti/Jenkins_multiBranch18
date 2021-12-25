@@ -1,4 +1,4 @@
-node('slave-lab') 
+node('slave-label') 
 {
     stage('Continuous Download') 
 	{
